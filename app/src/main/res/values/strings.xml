@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediLocker</string>
+
+    <string name="app_tagline">Your Health. Your Records. Always With You.</string>
+
+    <string name="welcome_message">Welcome back</string>
+    <string name="patient_records">Your Medical Records</string>
+
+    <string name="search_records">Search medical records</string>
+
+    <string name="my_records">My Records</string>
+    <string name="prescriptions">Prescriptions</string>
+    <string name="lab_reports">Lab Reports</string>
+    <string name="scan_reports">Scan Reports</string>
+    <string name="discharge_summaries">Discharge Summaries</string>
+    <string name="medical_bills">Medical Bills</string>
+
+    <string name="recent_records">Recent Records</string>
+    <string name="view_all">View All</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+
+    <string name="add_record">Add Record</string>
+    <string name="view_record">View Record</string>
+    <string name="upload_record">Upload Record</string>
+</resources>

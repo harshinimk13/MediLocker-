@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen Padding -->
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="screen_padding_small">16dp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+
+    <!-- Corner Radius -->
+    <dimen name="radius_small">10dp</dimen>
+    <dimen name="radius_medium">16dp</dimen>
+    <dimen name="radius_large">22dp</dimen>
+    <dimen name="radius_extra_large">28dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_body_small">14sp</dimen>
+    <dimen name="text_body">16sp</dimen>
+    <dimen name="text_subtitle">18sp</dimen>
+    <dimen name="text_title">22sp</dimen>
+    <dimen name="text_heading">28sp</dimen>
+    <dimen name="text_display">32sp</dimen>
+
+    <!-- Components -->
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="input_height">54dp</dimen>
+
+    <!-- Icons -->
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+
+    <!-- Cards -->
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+</resources>
