@@ -19,3 +19,9 @@ build/
 local.properties
 *.iml
 .env
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+.env
